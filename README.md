@@ -1,1 +1,1 @@
-By using variables, my program should work for any Kelvin temperature — just change the value of kelvin and run the program again.
+I was working with javaScript and wanted to create a temperature converter.  By using variables, my program should work for any Kelvin temperature — just change the value of kelvin and run the program again.
